@@ -1,0 +1,12 @@
+A:\coding\Gewig verloor program\Gewig verloor program\bin\Debug\Gewig verloor program.exe.config
+A:\coding\Gewig verloor program\Gewig verloor program\bin\Debug\Gewig verloor program.exe
+A:\coding\Gewig verloor program\Gewig verloor program\bin\Debug\Gewig verloor program.pdb
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig verloor program.csproj.AssemblyReference.cache
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig_verloor_program.Form1.resources
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig_verloor_program.Properties.Resources.resources
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig verloor program.csproj.GenerateResource.cache
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig verloor program.csproj.CoreCompileInputs.cache
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig verloor program.exe
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig verloor program.pdb
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig_verloor_program.Form2.resources
+A:\coding\Gewig verloor program\Gewig verloor program\obj\Debug\Gewig_verloor_program.Form3.resources
