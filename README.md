@@ -1,8 +1,7 @@
 This is a simple C# windows application developed for practice purposes to help users track their weight over time. The program allows you to input a date and your weight, and then save that information to a custom-named file.
 
 Note: This app is only intended to be opened and run in Visual Studio and is not packaged for general download or use.
-
-💡 Features
+ Features
 Input your weigh-in date and weight.
 
 Save each entry to a file with a custom file name.
